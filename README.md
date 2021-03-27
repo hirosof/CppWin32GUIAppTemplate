@@ -1,0 +1,1 @@
+# CppWin32GUIAppTemplate
